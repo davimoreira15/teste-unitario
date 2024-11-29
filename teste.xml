@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.usermanagement.PessoaFisicaRepositoryTests" tests="1" failures="0" errors="0" skipped="0" timestamp="2024-11-29T15:21:16" hostname="localhost" time="0.123">
+    <properties/>
+    <testcase name="testCreatePessoaFisica" classname="com.example.usermanagement.PessoaFisicaRepositoryTests" time="0.123"/>
+    <system-out><![CDATA[]]></system-out>
+    <system-err><![CDATA[]]></system-err>
+</testsuite>
